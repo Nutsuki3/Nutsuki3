@@ -1,3 +1,7 @@
+#Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Nutsuki3
+
+![](https://media.tenor.com/3g3D1mECft0AAAAC/anime-hi.gif)
+
 # 💫 About Me:
 I've been learning programming languages ​​for 5 years and started with C. I have a dream to be a Full Stack Developer.<br><br>🌍  I'm based in Thailand<br>🧠  I'm learning JavaScript
 
