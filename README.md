@@ -17,7 +17,7 @@ I've been learning programming languages ​​for 5 years and started with C. I
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nutsuki3&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![](https://cutewallpaper.org/21/gifs-with-transparent-background/Anime-Gif-Without-Background.gif)
+![](https://i.pinimg.com/originals/04/4d/12/044d12b83f0f1aa1012563a4701b0531.gif)
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
@@ -25,4 +25,4 @@ I've been learning programming languages ​​for 5 years and started with C. I
 ---
 [![](https://visitcount.itsvg.in/api?id=Nutsuki3&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://cutewallpaper.org/21/gifs-with-transparent-background/Anime-Gif-Without-Background.gif)
