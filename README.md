@@ -1,6 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Nutsuki3
 ================================================================================================================================
 
+![](https://media.tenor.com/3g3D1mECft0AAAAC/anime-hi.gif)
 I've been learning programming languages ​​for 5 years and started with C. I have a dream to be a Full Stack Developer.
 
 * 🌍  I'm based in Thailand
@@ -10,7 +11,7 @@ I've been learning programming languages ​​for 5 years and started with C. I
 <a href="https://www.github.com/Nutsuki3" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Nutsuki3?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-![](https://media.tenor.com/3g3D1mECft0AAAAC/anime-hi.gif)
+
 
 ### Skills
 
