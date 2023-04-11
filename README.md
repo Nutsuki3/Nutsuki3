@@ -3,6 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ![](https://media.tenor.com/3g3D1mECft0AAAAC/anime-hi.gif)
 
+![](https://i.stack.imgur.com/022Fl.gif)
+
 I've been learning programming languages ​​for 5 years and started with C. I have a dream to be a Full Stack Developer.
 
 * 🌍  I'm based in Thailand
