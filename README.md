@@ -1,10 +1,8 @@
-###Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nutsuki3
-
-![](https://media.tenor.com/3g3D1mECft0AAAAC/anime-hi.gif)
-
 # 💫 About Me:
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nutsuki3
 I've been learning programming languages ​​for 5 years and started with C. I have a dream to be a Full Stack Developer.<br><br>🌍  I'm based in Thailand<br>🧠  I'm learning JavaScript
 
+![](https://media.tenor.com/3g3D1mECft0AAAAC/anime-hi.gif)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ʙʟᴀxᴋ#7389) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ThinnapatSrithanawongchai) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21613627) 
