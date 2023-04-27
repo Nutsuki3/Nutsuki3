@@ -26,5 +26,3 @@ src="https://img.shields.io/github/followers/Nutsuki3?logo=github&style=for-the-
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
-
-![](https://cutewallpaper.org/21/gifs-with-transparent-background/Anime-Gif-Without-Background.gif)
