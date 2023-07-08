@@ -22,6 +22,3 @@ I've been learning programming languages ​​for 5 years and started with C.<b
 ![](https://github-profile-trophy.vercel.app/?username=Nutsuki3&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ![](https://i.pinimg.com/originals/04/4d/12/044d12b83f0f1aa1012563a4701b0531.gif)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
